@@ -7,4 +7,4 @@ Kelompok 10 :
 - Marcellinus Afrits Sorongan  23.12.2966
 - Muhammad Fahmi Aziz Sanjeeda 23.12.2973
 
-Tema Website : Web Rekomendasi & Kalkulator Spesifik Untuk Game
+Tema Website : Web Rekomendasi & Kalkulator Spesifik Untuk Game 
